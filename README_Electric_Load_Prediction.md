@@ -15,26 +15,6 @@ The aim is to apply machine learning and deep learning techniques to predict ene
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/electric-load-prediction.git
-cd electric-load-prediction
-```
-
-2. Install required dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the Jupyter Notebook:
-```bash
-jupyter notebook electric_load_prediction.ipynb
-```
-
----
-
 ## 📊 Dataset
 
 The project uses the **Group F Electric Load Dataset**, which includes:  
@@ -63,8 +43,3 @@ This dataset provides a real-world foundation for energy analytics and load pred
 
 ---
 
-## 👨‍💻 Author
-
-**Advait Mahesh Chaudhari**  
-Master’s in Smart Energy Systems – Hochschule Ansbach  
-[LinkedIn](https://www.linkedin.com/in/advait-chaudhari-20m1999) | [GitHub](https://github.com/Advait20399)  
